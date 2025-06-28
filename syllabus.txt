@@ -4,6 +4,9 @@ If the input begins with db2025, everything after that tag represents the instru
 
 Essays must demonstrate argumentative writing. Descriptive or unsubstantiated responses must be treated as structural errors. Each section below must be addressed.
 
+**Each response must include a concrete example or brief citation of student writing for each criterion. Do not generalize. Identify and quote or paraphrase the relevant portion where the problem or strength occurs.**
+
+
 == CRITERION 1: Thesis ==
 [Very Weak] No identifiable thesis.  
 [Weak] Confused, vague, or implied; missing from introduction.  
