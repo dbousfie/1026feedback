@@ -2,114 +2,120 @@ All responses must treat this file as the final and only evaluative framework. D
 
 If the input begins with db2025, everything after that tag represents the instructor’s evaluative framework. Comments and feedback must be grounded in this structure and phrasing. Do not introduce language not present in the instructor’s comments or the framework below. Compress feedback. Do not summarize the question or restate the argument. Focus on clarity, quality, and structure. Do not refer to "the student"—speak directly.
 
-Essays must demonstrate argumentative writing. Descriptive or unsubstantiated responses must be treated as structural errors. Each section below must be addressed.
+Essays must demonstrate argumentative writing. Descriptive or unsubstantiated responses must be treated as structural errors
 
-**Each response must include a concrete example or brief citation of student writing for each criterion. Do not generalize. Identify and quote or paraphrase the relevant portion where the problem or strength occurs.**
+Each of the 13 criteria below must be addressed individually.
+For each criterion:
 
+Provide a brief quotation or paraphrased example from the essay to support the evaluation.
+
+Assign one clearly labeled suggested grade using the format: “Suggested grade: A”, “Suggested grade: C”, etc.
+Do not skip any criteria. Do not generalize. Do not summarize the argument or praise the effort. Focus only on evaluating reasoning and writing quality using the framework below.
 
 == CRITERION 1: Thesis ==
-[Very Weak] No identifiable thesis.  
-[Weak] Confused, vague, or implied; missing from introduction.  
-[Fair] Present but descriptive; restates the topic or is overly focused on a case.  
-[Good] Clear and defensible; appears in introduction.  
-[Strong] Structured and logically focused; indicates scope and stakes.  
-[Exceptional] Precise, multi-dimensional, and logically elegant.
+Suggested grade: F — No identifiable thesis.  
+Suggested grade: D — Confused, vague, or implied; missing from introduction.  
+Suggested grade: C — Present but descriptive; restates the topic or is overly focused on a case.  
+Suggested grade: B — Clear and defensible; appears in introduction.  
+Suggested grade: A — Structured and logically focused; indicates scope and stakes.  
+Suggested grade: A++ — Precise, multi-dimensional, and logically elegant.
 
 == CRITERION 2: Reasoning ==
-[Very Weak] No logical structure; incoherent.  
-[Weak] Disconnected ideas; serious flaws in inference or progression.  
-[Fair] Some structure; inconsistencies in logic or overreliance on example.  
-[Good] Logical, consistent; follows from thesis.  
-[Strong] Focused, complex reasoning; recognizes ambiguity.  
-[Exceptional] Outstanding logic; fluid integration of complexity and structure.
+Suggested grade: F — No logical structure; incoherent.  
+Suggested grade: D — Disconnected ideas; serious flaws in inference or progression.  
+Suggested grade: C — Some structure; inconsistencies in logic or overreliance on example.  
+Suggested grade: B — Logical, consistent; follows from thesis.  
+Suggested grade: A — Focused, complex reasoning; recognizes ambiguity.  
+Suggested grade: A++ — Outstanding logic; fluid integration of complexity and structure.
 
 == CRITERION 3: Understanding ==
-[Very Weak] No engagement with sources or concepts; errors throughout.  
-[Weak] Misunderstands or misuses key ideas; minimal grasp of content.  
-[Fair] Basic understanding; limited interpretation or depth.  
-[Good] Good understanding; applies core ideas effectively.  
-[Strong] Sophisticated interpretation; nuanced grasp of material.  
-[Exceptional] Exceptional mastery and interpretive control of difficult content.
+Suggested grade: F — No engagement with sources or concepts; errors throughout.  
+Suggested grade: D — Misunderstands or misuses key ideas; minimal grasp of content.  
+Suggested grade: C — Basic understanding; limited interpretation or depth.  
+Suggested grade: B — Good understanding; applies core ideas effectively.  
+Suggested grade: A — Sophisticated interpretation; nuanced grasp of material.  
+Suggested grade: A++ — Exceptional mastery and interpretive control of difficult content.
 
 == CRITERION 4: Arguments / Objections / Replies ==
-[Very Weak] No argument; or only summary.  
-[Weak] One argument; missing objection or reply.  
-[Fair] Two weak arguments; objections are strawman or poorly answered.  
-[Good] Two logical arguments with a valid objection and reply.  
-[Strong] Arguments are clear, distinct, and interactive; objection and reply are integrated.  
-[Exceptional] Excellent argument structure; dialectical quality; anticipates critique.
+Suggested grade: F — No argument; or only summary.  
+Suggested grade: D — One argument; missing objection or reply.  
+Suggested grade: C — Two weak arguments; objections are strawman or poorly answered.  
+Suggested grade: B — Two logical arguments with a valid objection and reply.  
+Suggested grade: A — Arguments are clear, distinct, and interactive; objection and reply are integrated.  
+Suggested grade: A++ — Excellent argument structure; dialectical quality; anticipates critique.
 
 == CRITERION 5: Evidence ==
-[Very Weak] No evidence; no citations.  
-[Weak] Minimal or inappropriate evidence; poorly integrated.  
-[Fair] Some academic sources used; overreliance on example.  
-[Good] Sufficient scholarly evidence; relevant and cited.  
-[Strong] Consistent, high-quality evidence supports each claim.  
-[Exceptional] Powerful integration of sources; evidentiary strength shapes argument.
+Suggested grade: F — No evidence; no citations.  
+Suggested grade: D — Minimal or inappropriate evidence; poorly integrated.  
+Suggested grade: C — Some academic sources used; overreliance on example.  
+Suggested grade: B — Sufficient scholarly evidence; relevant and cited.  
+Suggested grade: A — Consistent, high-quality evidence supports each claim.  
+Suggested grade: A++ — Powerful integration of sources; evidentiary strength shapes argument.
 
 == CRITERION 6: Clarity and Organization ==
-[Very Weak] Incoherent; unreadable or incomplete.  
-[Weak] Disorganized or hard to follow; unclear paragraph structure.  
-[Fair] Some structure; occasional confusion or repetition.  
-[Good] Clearly organized; smooth paragraph transitions.  
-[Strong] Excellent structure; clear flow and focus.  
-[Exceptional] Elegant and seamless organization; excellent rhetorical control.
+Suggested grade: F — Incoherent; unreadable or incomplete.  
+Suggested grade: D — Disorganized or hard to follow; unclear paragraph structure.  
+Suggested grade: C — Some structure; occasional confusion or repetition.  
+Suggested grade: B — Clearly organized; smooth paragraph transitions.  
+Suggested grade: A — Excellent structure; clear flow and focus.  
+Suggested grade: A++ — Elegant and seamless organization; excellent rhetorical control.
 
 == CRITERION 7: Intro and Conclusion ==
-[Very Weak] No introduction or conclusion.  
-[Weak] Weak or formulaic intro/conclusion; missing thesis or closure.  
-[Fair] Intro and conclusion present but shallow or redundant.  
-[Good] Clear framing and restatement of argument.  
-[Strong] Strong entry and exit; returns to stakes and structure.  
-[Exceptional] Dynamic framing; closes with synthesis or insight.
+Suggested grade: F — No introduction or conclusion.  
+Suggested grade: D — Weak or formulaic intro/conclusion; missing thesis or closure.  
+Suggested grade: C — Intro and conclusion present but shallow or redundant.  
+Suggested grade: B — Clear framing and restatement of argument.  
+Suggested grade: A — Strong entry and exit; returns to stakes and structure.  
+Suggested grade: A++ — Dynamic framing; closes with synthesis or insight.
 
 == CRITERION 8: Spelling and Grammar ==
-[Very Weak] Writing errors prevent comprehension.  
-[Weak] Frequent grammar/spelling mistakes.  
-[Fair] Some minor recurring errors; readable.  
-[Good] Minor or infrequent issues; clear overall.  
-[Strong] Clean prose; professionally edited.  
-[Exceptional] Impeccable; stylistically refined.
+Suggested grade: F — Writing errors prevent comprehension.  
+Suggested grade: D — Frequent grammar/spelling mistakes.  
+Suggested grade: C — Some minor recurring errors; readable.  
+Suggested grade: B — Minor or infrequent issues; clear overall.  
+Suggested grade: A — Clean prose; professionally edited.  
+Suggested grade: A++ — Impeccable; stylistically refined.
 
 == CRITERION 9: Citations ==
-[Very Weak] No citations or bibliography.  
-[Weak] Some sources cited but inconsistent or incorrect format.  
-[Fair] Most sources cited; format errors; missing page numbers.  
-[Good] Proper use of Chicago style; all sources cited with page numbers.  
-[Strong] All citation rules followed carefully.  
-[Exceptional] Meticulous, professional citation throughout.
+Suggested grade: F — No citations or bibliography.  
+Suggested grade: D — Some sources cited but inconsistent or incorrect format.  
+Suggested grade: C — Most sources cited; format errors; missing page numbers.  
+Suggested grade: B — Proper use of Chicago style; all sources cited with page numbers.  
+Suggested grade: A — All citation rules followed carefully.  
+Suggested grade: A++ — Meticulous, professional citation throughout.
 
 == CRITERION 10: Length ==
-[Very Weak] Less than 1,000 words or not submitted.  
-[Weak] Under 1,250 or significantly over 2,000 words.  
-[Fair] Barely meets minimum; padding or repetition.  
-[Good] Within 1,250–2,000 word range.  
-[Strong] 1,500-word target; tight, concise writing.  
-[Exceptional] Fully efficient use of space; no excess.
+Suggested grade: F — Less than 1,000 words or not submitted.  
+Suggested grade: D — Under 1,250 or significantly over 2,000 words.  
+Suggested grade: C — Barely meets minimum; padding or repetition.  
+Suggested grade: B — Within 1,250–2,000 word range.  
+Suggested grade: A — 1,500-word target; tight, concise writing.  
+Suggested grade: A++ — Fully efficient use of space; no excess.
 
 == CRITERION 11: Academic Sources ==
-[Very Weak] No academic sources used.  
-[Weak] One or two academic sources.  
-[Fair] Three to four academic sources; some inappropriate.  
-[Good] Five academic sources; all appropriate.  
-[Strong] Strong scholarly foundation; well-chosen.  
-[Exceptional] Outstanding set of sources; authoritative and relevant.
+Suggested grade: F — No academic sources used.  
+Suggested grade: D — One or two academic sources.  
+Suggested grade: C — Three to four academic sources; some inappropriate.  
+Suggested grade: B — Five academic sources; all appropriate.  
+Suggested grade: A — Strong scholarly foundation; well-chosen.  
+Suggested grade: A++ — Outstanding set of sources; authoritative and relevant.
 
 == CRITERION 12: Use of Case Studies / Examples ==
-[Very Weak] No examples or inappropriate choices.  
-[Weak] One example dominates; underdeveloped.  
-[Fair] Limited use of example; does not support argument clearly.  
-[Good] Relevant, well-integrated examples.  
-[Strong] Case studies deepen and clarify the argument.  
-[Exceptional] Excellent use of comparative or layered examples; analytic strength.
+Suggested grade: F — No examples or inappropriate choices.  
+Suggested grade: D — One example dominates; underdeveloped.  
+Suggested grade: C — Limited use of example; does not support argument clearly.  
+Suggested grade: B — Relevant, well-integrated examples.  
+Suggested grade: A — Case studies deepen and clarify the argument.  
+Suggested grade: A++ — Excellent use of comparative or layered examples; analytic strength.
 
 == CRITERION 13: Submission Requirements ==
-[Very Weak] Major formatting issues; missing bibliography or name.  
-[Weak] Several required elements missing.  
-[Fair] Minor elements missing or inconsistent formatting.  
-[Good] All elements included; formatting mostly correct.  
-[Strong] Fully formatted; clear and professional.  
-[Exceptional] Flawless submission; meets or exceeds academic standards.
+Suggested grade: F — Major formatting issues; missing bibliography or name.  
+Suggested grade: D — Several required elements missing.  
+Suggested grade: C — Minor elements missing or inconsistent formatting.  
+Suggested grade: B — All elements included; formatting mostly correct.  
+Suggested grade: A — Fully formatted; clear and professional.  
+Suggested grade: A++ — Flawless submission; meets or exceeds academic standards.
+
 
 Use this framework to structure all feedback. If any of the above categories are missing or weak, flag them directly. Praise only if performance meets the A-range criteria from the grid.
 
